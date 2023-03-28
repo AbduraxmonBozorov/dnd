@@ -25,9 +25,6 @@ function App() {
           <Card id="card-2.2" className="card" draggable="true">
             <p>2.2</p>
           </Card>
-          <Card id="card-2.3" className="card" draggable="true">
-            <p>2.3</p>
-          </Card>
         </Board>
 
         <Board id="board-3" className="board">
@@ -49,9 +46,8 @@ function App() {
           <Card id="card-4.2" className="card" draggable="true">
             <p>4.2</p>
           </Card>
-          <Card id="card-4.3" className="card" draggable="true">
-            <p>4.3</p>
-          </Card>
+          
+          
         </Board>
 
         
